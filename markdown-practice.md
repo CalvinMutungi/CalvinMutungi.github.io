@@ -33,14 +33,8 @@ Mastering **version control** is essential for *modern software development*, es
 
 
 ```python
-def verify_task(task_name: str, status: bool) -> str:
-    """Returns task completion status."""
-    return f"Task: {task_name} | Status: {'Completed' if status else 'Pending'}"
-
-print(verify_task("Markdown Practice", True))
-
-## Exercise 8 — Blockquote
-> "The secret of getting ahead is getting started." — Mark Twain
+print("hello,world)
+else if
 ```
 
 > "The secret of getting ahead is getting started." — Mark Twain
